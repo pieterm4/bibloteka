@@ -1,0 +1,5 @@
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,15 @@
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\MainWindow.baml
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\MainWindow.g.cs
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\App.g.cs
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd_MarkupCompile.cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd.g.resources
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd.Properties.Resources.resources
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\bin\Debug\WPFsd.exe.config
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\bin\Debug\WPFsd.exe
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\bin\Debug\WPFsd.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\bin\Debug\DataLayer.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\bin\Debug\DataLayer.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd.exe
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WPFsd\obj\Debug\WPFsd.pdb

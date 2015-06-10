@@ -1,0 +1,8 @@
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\bin\ASPdemo.dll.config
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\bin\ASPdemo.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\bin\ASPdemo.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\bin\DataLayer.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\bin\DataLayer.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\obj\Debug\ASPdemo.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\obj\Debug\ASPdemo.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\ASPdemo\obj\Debug\ASPdemo.pdb

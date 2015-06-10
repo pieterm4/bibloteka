@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\bin\Debug\WinDemoAdo.exe.config
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\bin\Debug\WinDemoAdo.exe
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\bin\Debug\WinDemoAdo.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\bin\Debug\DataLayer.dll
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\bin\Debug\DataLayer.pdb
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\obj\Debug\WinDemoAdo.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\obj\Debug\WinDemoAdo.Form1.resources
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\obj\Debug\WinDemoAdo.Properties.Resources.resources
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\obj\Debug\WinDemoAdo.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\obj\Debug\WinDemoAdo.exe
+C:\Users\Adrian\Desktop\C#\WinDemoAdo\WinDemoAdo\obj\Debug\WinDemoAdo.pdb
